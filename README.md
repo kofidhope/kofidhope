@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kofidhope&label=Profile%20views&color=0e75b6&style=flat" alt="kofidhope" /> </p>
 
-- 🌱 I’m currently learning **react and springboot**
+- 🌱 I’m currently learning **react and Laravel**
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
