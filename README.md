@@ -95,7 +95,7 @@ A secure authentication system implementing modern backend security practices.
 
 ## 🎯 What I’m Looking For
 
-- Junior Backend Developer roles  
+- Backend Developer roles  
 - Graduate Software Engineer positions  
 - Java / Spring Boot backend teams  
 - Backend-focused roles in fintech, enterprise, or startups  
@@ -111,4 +111,4 @@ A secure authentication system implementing modern backend security practices.
 
 ---
 
-⭐️ *Motivated junior backend developer with a strong foundation in Spring Boot, microservices, and secure API development.*
+⭐️ *Motivated backend developer with a strong foundation in Spring Boot, microservices, and secure API development.*
