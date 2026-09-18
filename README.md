@@ -1,53 +1,46 @@
-      
-<h1 align="left">Forson Bentum</h1>
+# Hi, I'm Forson Bentum 👋
 
-<p align="left">
-Backend Developer focused on Java, Spring Boot, and secure API design.<br/>
-Accra, Ghana · Open to remote & on-site roles
-</p>
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="mailto:forsonbentum55@gmail.com"><img src="https://img.shields.io/badge/Email-forsonbentum55%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Forson%20Bentum-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
+I'm a backend developer focused on building secure, scalable APIs with **Java and Spring Boot**. I enjoy designing systems the right way — clean service boundaries, proper auth, and infrastructure that actually runs in production, not just on `localhost`.
 
----
+I've built microservices systems with **Kafka-driven workflows, JWT authentication, and third-party integrations** (Paystack, Twilio), and I have hands-on experience taking a backend from code to a live server with **Docker, Nginx, and AWS EC2**.
 
-### About
+I'm currently open to  Backend Developer / Graduate Software Engineer roles.
 
-Computer Science graduate building backend systems with Java and Spring Boot — REST APIs, microservices, JWT-based auth, and role-based access control, backed by MySQL/PostgreSQL and containerized with Docker.
+## 🔧 Technologies & Tools
 
-Currently looking for a Junior Backend Developer or Graduate Software Engineer role.
+**Cloud Services:**
 
-### Stack
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Programming Languages:**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Tools and Services:**
+
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-*Also working with: Spring Cloud (Eureka, Config Server, OpenFeign, Gateway), Nginx, CI/CD (GitHub Actions), Paystack & Twilio integrations.*
+## 🎯 Interests
 
-### Projects
+Outside of coding, I enjoy watching movies and series, playing games, and following football ⚽.
 
-**[Smart-Rent](https://github.com/kofidhope/smart-rent)**
-Multi-tenant rental marketplace built as a 9-service Spring Boot microservices system — API gateway, Eureka discovery, Kafka-driven booking saga, Paystack payments, Twilio notifications — with a React 19 + Tailwind frontend.
+## 📫 Let's Connect
 
-**[Appointment Booking System](https://github.com/kofidhope/Appointment-booking-system)**
-Production-style REST API for appointment booking with Spring Boot and PostgreSQL, containerized with Docker and Nginx, JWT auth with OTP verification, Paystack payments, and a GitHub Actions CI/CD pipeline. Previously deployed on AWS EC2.
+[![Email](https://img.shields.io/badge/Email-forsonbentum55%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:forsonbentum55@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Forson%20Bentum-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
-### Experience
+## 🥇 GitHub Stats
 
-**Zenith Bank Ghana** — National Service Personnel, Retail Marketing (Sep 2024 – Sep 2025)
-Supported digital banking operations and customer data verification with a focus on security and compliance.
-
----
-
-<p align="left"><i>Open to backend roles in fintech, enterprise, or startup teams working with Java/Spring Boot.</i></p>
+![Forson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kofidhope&show_icons=true&theme=default)
