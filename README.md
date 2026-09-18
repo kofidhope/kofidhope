@@ -1,114 +1,53 @@
-# Hi 👋🏽, I'm Forson Bentum
+      
+<h1 align="left">Forson Bentum</h1>
 
-**Junior Backend Developer | Java & Spring Boot | Microservices & Secure APIs**  
-📍 Accra, Ghana | Open to Remote & On-site Opportunities
+<p align="left">
+Backend Developer focused on Java, Spring Boot, and secure API design.<br/>
+Accra, Ghana · Open to remote & on-site roles
+</p>
 
----
-
-## 👨🏽‍💻 About Me
-
-I am a **Computer Science graduate** and **junior backend developer** with hands-on experience building **secure, scalable backend systems using Java and Spring Boot**.
-
-I have practical experience developing:
-- RESTful APIs and microservices
-- JWT-based authentication and authorization
-- Role-based access control
-- Database-driven applications using MySQL and PostgreSQL
-- Dockerized backend services
-
-I am actively seeking a **Junior Backend Developer / Graduate Software Engineer** role where I can contribute to real-world systems and continue growing as a backend engineer.
+<p align="left">
+<a href="mailto:forsonbentum55@gmail.com"><img src="https://img.shields.io/badge/Email-forsonbentum55%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Forson%20Bentum-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠 Technical Skills
+### About
 
-### Backend
-- Java  
-- Spring Boot  
-- Spring Security  
-- JWT Authentication  
-- RESTful API Design  
-- Microservices Architecture  
+Computer Science graduate building backend systems with Java and Spring Boot — REST APIs, microservices, JWT-based auth, and role-based access control, backed by MySQL/PostgreSQL and containerized with Docker.
 
-### Databases
-- MySQL  
-- PostgreSQL  
+Currently looking for a Junior Backend Developer or Graduate Software Engineer role.
 
-### Frontend (Working Knowledge)
-- React.js  
+### Stack
 
-### DevOps & Cloud
-- Docker  
-- Spring Cloud (Eureka, Config Server, OpenFeign)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Tools
-- Git & GitHub  
-- IntelliJ IDEA  
-- VS Code  
+*Also working with: Spring Cloud (Eureka, Config Server, OpenFeign, Gateway), Nginx, CI/CD (GitHub Actions), Paystack & Twilio integrations.*
 
----
+### Projects
 
-## 📌 Projects
+**[Smart-Rent](https://github.com/kofidhope/smart-rent)**
+Multi-tenant rental marketplace built as a 9-service Spring Boot microservices system — API gateway, Eureka discovery, Kafka-driven booking saga, Paystack payments, Twilio notifications — with a React 19 + Tailwind frontend.
 
-### 🛒 E-Commerce Microservices System
-**Tech:** Java, Spring Boot, Spring Cloud, Docker, JWT  
+**[Appointment Booking System](https://github.com/kofidhope/Appointment-booking-system)**
+Production-style REST API for appointment booking with Spring Boot and PostgreSQL, containerized with Docker and Nginx, JWT auth with OTP verification, Paystack payments, and a GitHub Actions CI/CD pipeline. Previously deployed on AWS EC2.
 
-**Description:**  
-A backend **microservices-based e-commerce system** designed to demonstrate scalable service architecture and secure API communication.
+### Experience
 
-**Key Features:**
-- RESTful microservices built with Spring Boot
-- API Gateway for routing and security
-- JWT-based authentication
-- Service discovery using Eureka
-- Centralized configuration with Spring Cloud Config
-- Inter-service communication using OpenFeign
-- Dockerized services for local deployment
-
-🔗 **GitHub Repo:https://github.com/kofidhope/ecommerce-microservices-springboot
+**Zenith Bank Ghana** — National Service Personnel, Retail Marketing (Sep 2024 – Sep 2025)
+Supported digital banking operations and customer data verification with a focus on security and compliance.
 
 ---
 
-### 🔐 Secure Authentication & Landing Page System
-**Tech:** Java, Spring Boot, Spring Security, JWT, MySQL  
-
-**Description:**  
-A secure authentication system implementing modern backend security practices.
-
-**Key Features:**
-- User registration and login
-- JWT-based authentication
-- Role-based access control
-- Secure password handling
-- MySQL database integration
-
-🔗 **GitHub Repo:https://github.com/kofidhope/Auth
-
----
-
-## 💼 Experience
-
-### 🏦 Zenith Bank Ghana — National Service Personnel (Retail Marketing)
-**Sep 2024 – Sep 2025**
- *Supported digital banking operations and customer data verification with a focus on security and compliance.*
-
-
-## 🎯 What I’m Looking For
-
-- Backend Developer roles  
-- Graduate Software Engineer positions  
-- Java / Spring Boot backend teams  
-- Backend-focused roles in fintech, enterprise, or startups  
-
----
-
-
-## 📫 Contact
-
-- 📧 Email: forsonbentum55@gmail.com  
-- 💼 LinkedIn: Forson Bentum  
-- 🌐 GitHub: https://github.com/kofidhope  
-
----
-
-⭐️ *Motivated backend developer with a strong foundation in Spring Boot, microservices, and secure API development.*
+<p align="left"><i>Open to backend roles in fintech, enterprise, or startup teams working with Java/Spring Boot.</i></p>
